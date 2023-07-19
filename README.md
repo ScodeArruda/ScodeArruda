@@ -1,4 +1,4 @@
--- 👋 Olá, meu nome é Sergio Arruda
+- 👋 Olá, meu nome é Sergio Arruda
 - 👀 Meus interesses, desenvolvimento Web
 - 🌱 Atuando como Analista de Desenvolvimento Pleno
 - 💞️ Gosto de colaborar com todo tipo de projeto que vise ajudar o crescimento da tecnologia
