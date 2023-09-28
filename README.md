@@ -1,8 +1,16 @@
-- 👋 Olá, meu nome é Sergio Arruda
-- 👀 Meus interesses, desenvolvimento Web
-- 🌱 Atuando como Analista de Desenvolvimento Pleno
-- 💞️ Gosto de colaborar com todo tipo de projeto que vise ajudar o crescimento da tecnologia
-- 📫 Pode me chamar no e-mail contato@scode.pro.br ou no tel: (11) 97065-6541
+# Olá, meu nome é Sergio Arruda sou Front-End Develop e moro em Osasco, SP.
+
+Atualmente estou trabalhando na [Stefanini Group](https://stefanini.com) colaborando em uma empresa financeira.
+
+
+### Side Projects:
+- 💰 [Calculadora]()
+- 💀 [Filmes em Angular]()
+- 🌵 [Traduzir]()
+- 🌱 [Crud](https://crud-seven-chi.vercel.app/)
+- 🌱 [PassaroUrbano](http://beta.omelo.com/)
+- 🌱 [Groove-Go](https://groove-go.vercel.app/signin)
+- 🌱 [SystemCoffee](https://system-coffee.vercel.app/sign-in)
 
 <!---
 ScodeArruda/ScodeArruda is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
