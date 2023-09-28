@@ -1,4 +1,4 @@
-# {c:blue}_Olá, meu nome é Sergio Arruda sou Front-End Develop e moro em Osasco, SP._{/c}
+# {c:blue}Olá, meu nome é Sergio Arruda sou Front-End Develop e moro em Osasco, SP.{/c}
 
 ##Atualmente estou trabalhando na [Stefanini Group](https://stefanini.com) colaborando em uma empresa financeira.
 
