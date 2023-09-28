@@ -1,6 +1,6 @@
-# Olá, meu nome é Sergio Arruda sou Front-End Develop e moro em Osasco, SP.
+# !!!_Olá, meu nome é Sergio Arruda sou Front-End Develop e moro em Osasco, SP._
 
-Atualmente estou trabalhando na [Stefanini Group](https://stefanini.com) colaborando em uma empresa financeira.
+##Atualmente estou trabalhando na [Stefanini Group](https://stefanini.com) colaborando em uma empresa financeira.
 
 
 ### Side Projects:
@@ -8,7 +8,7 @@ Atualmente estou trabalhando na [Stefanini Group](https://stefanini.com) colabor
 - 💀 [Filmes em Angular]()
 - 🌵 [Traduzir]()
 - 🌱 [Crud](https://crud-seven-chi.vercel.app/)
-- 🌱 [PassaroUrbano](http://beta.omelo.com/)
+- 🌱 [PassaroUrbano]()
 - 🌱 [Groove-Go](https://groove-go.vercel.app/signin)
 - 🌱 [SystemCoffee](https://system-coffee.vercel.app/sign-in)
 
