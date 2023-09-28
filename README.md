@@ -6,7 +6,7 @@
 ### Side Projects:
 
 - 💰 [Calculadora]()
-- 💀 [Filmes em Angular]()
+- 💀 [Filmes em Angular](https://scode-filmes.web.app/filmes)
 - 🌵 [Traduzir]()
 - 🌱 [Crud](https://crud-seven-chi.vercel.app/)
 - 🌱 [PassaroUrbano]()
